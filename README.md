@@ -3,7 +3,7 @@ This repository contains implementations and experiments based on TU Berlin's *R
 
 ## Topics covered
 - 01: Randomized Matrix Multiplication
-
+- 02: Randomized Power Method
 
 ## Structure
 Each folder corresponds to one exercise and includes:
