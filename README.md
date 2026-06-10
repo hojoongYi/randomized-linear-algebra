@@ -4,6 +4,7 @@ This repository contains implementations and experiments based on TU Berlin's *R
 ## Topics covered
 - 01: Randomized Matrix Multiplication
 - 02: Randomized Power Method
+- 03: Randomized Singular Value Decomposition (SVD)
 
 ## Structure
 Each folder corresponds to one exercise and includes:
