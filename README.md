@@ -5,6 +5,7 @@ This repository contains implementations and experiments based on TU Berlin's *R
 - 01: Randomized Matrix Multiplication
 - 02: Randomized Power Method
 - 03: Randomized Singular Value Decomposition (SVD)
+- 05: Johnsons-Lindenstrauss embedding & Compressed sensing
 
 ## Structure
 Each folder corresponds to one exercise and includes:
